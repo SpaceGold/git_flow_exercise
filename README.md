@@ -11,3 +11,6 @@
 First line is whatevs  
 
 Second line confirmed; pair programming a success!  
+
+Third time's the charm: README updated to reflect a full cycle of 
+collaboration.
