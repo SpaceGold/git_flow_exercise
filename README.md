@@ -8,7 +8,7 @@
 # adam.eric.zimmerman@gmail.com
 # Oct 5 2020
 
-First line is whatevs  
+First line is now completed  
 
 Second line confirmed; pair programming a success!  
 
